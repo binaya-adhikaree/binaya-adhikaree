@@ -1,6 +1,6 @@
 
 
-<a href="https://binaya-adhikaree.netlify.app/">portfolio </a>
+<a href="https://binaya-dev.netlify.app/">portfolio </a>
 
 
 <div align="center">
